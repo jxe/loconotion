@@ -81,4 +81,12 @@ div[role="button"]:not(.notion-record-icon):hover {
   .notion-bookmark-block div {
     white-space: unset !important;
   }
+
+  .notion-frame {
+    width: 100% !important;
+  }
+}
+
+.notion-page-mention-token svg.alias {
+  height: 1em !important;
 }
